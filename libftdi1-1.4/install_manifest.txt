@@ -1,0 +1,10 @@
+/tmp/csr-spi-ftdi/libftdi1-win32/lib/pkgconfig/libftdi1.pc
+/tmp/csr-spi-ftdi/libftdi1-win32/lib/pkgconfig/libftdipp1.pc
+/tmp/csr-spi-ftdi/libftdi1-win32/bin/libftdi1-config
+/tmp/csr-spi-ftdi/libftdi1-win32/lib/cmake/libftdi1/LibFTDI1Config.cmake
+/tmp/csr-spi-ftdi/libftdi1-win32/lib/cmake/libftdi1/LibFTDI1ConfigVersion.cmake
+/tmp/csr-spi-ftdi/libftdi1-win32/lib/cmake/libftdi1/UseLibFTDI1.cmake
+/tmp/csr-spi-ftdi/libftdi1-win32/lib/libftdi1.dll.a
+/tmp/csr-spi-ftdi/libftdi1-win32/bin/libftdi1.dll
+/tmp/csr-spi-ftdi/libftdi1-win32/lib/libftdi1.a
+/tmp/csr-spi-ftdi/libftdi1-win32/include/libftdi1/ftdi.h

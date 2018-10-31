@@ -1,0 +1,11 @@
+prefix=/tmp/csr-spi-ftdi/libftdi1-win32
+exec_prefix=/tmp/csr-spi-ftdi/libftdi1-win32/bin
+libdir=/tmp/csr-spi-ftdi/libftdi1-win32/bin
+includedir=/tmp/csr-spi-ftdi/libftdi1-win32/include/libftdi1
+
+Name: libftdipp1
+Description: C++ wrapper for libftdi1
+Requires: libftdi1
+Version: 1.4
+Libs: -L${libdir} -lftdipp1
+Cflags: -I${includedir}
